@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/http//MerdanTm.github.io/homeworkcontext/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/http//MerdanTm.github.io/homeworkcontext/static/js/main.e2e22ec9.chunk.js",
-    "main.js.map": "/http//MerdanTm.github.io/homeworkcontext/static/js/main.e2e22ec9.chunk.js.map",
-    "runtime-main.js": "/http//MerdanTm.github.io/homeworkcontext/static/js/runtime-main.4616f2e0.js",
-    "runtime-main.js.map": "/http//MerdanTm.github.io/homeworkcontext/static/js/runtime-main.4616f2e0.js.map",
-    "static/js/2.aae8233d.chunk.js": "/http//MerdanTm.github.io/homeworkcontext/static/js/2.aae8233d.chunk.js",
-    "static/js/2.aae8233d.chunk.js.map": "/http//MerdanTm.github.io/homeworkcontext/static/js/2.aae8233d.chunk.js.map",
-    "static/js/3.2203e232.chunk.js": "/http//MerdanTm.github.io/homeworkcontext/static/js/3.2203e232.chunk.js",
-    "static/js/3.2203e232.chunk.js.map": "/http//MerdanTm.github.io/homeworkcontext/static/js/3.2203e232.chunk.js.map",
-    "index.html": "/http//MerdanTm.github.io/homeworkcontext/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/http//MerdanTm.github.io/homeworkcontext/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.aae8233d.chunk.js.LICENSE.txt": "/http//MerdanTm.github.io/homeworkcontext/static/js/2.aae8233d.chunk.js.LICENSE.txt"
+    "main.css": "/homeworkcontext/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/homeworkcontext/static/js/main.e2e22ec9.chunk.js",
+    "main.js.map": "/homeworkcontext/static/js/main.e2e22ec9.chunk.js.map",
+    "runtime-main.js": "/homeworkcontext/static/js/runtime-main.083a6630.js",
+    "runtime-main.js.map": "/homeworkcontext/static/js/runtime-main.083a6630.js.map",
+    "static/js/2.aae8233d.chunk.js": "/homeworkcontext/static/js/2.aae8233d.chunk.js",
+    "static/js/2.aae8233d.chunk.js.map": "/homeworkcontext/static/js/2.aae8233d.chunk.js.map",
+    "static/js/3.2203e232.chunk.js": "/homeworkcontext/static/js/3.2203e232.chunk.js",
+    "static/js/3.2203e232.chunk.js.map": "/homeworkcontext/static/js/3.2203e232.chunk.js.map",
+    "index.html": "/homeworkcontext/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/homeworkcontext/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.aae8233d.chunk.js.LICENSE.txt": "/homeworkcontext/static/js/2.aae8233d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4616f2e0.js",
+    "static/js/runtime-main.083a6630.js",
     "static/js/2.aae8233d.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.e2e22ec9.chunk.js"
